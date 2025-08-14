@@ -20,8 +20,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+videolink: https://drive.google.com/file/d/1fNUcvygB6EaVmnGBdx7KHZC672hhFm2i/view?usp=sharing 
 
 <img src='https://drive.google.com/file/d/1fNUcvygB6EaVmnGBdx7KHZC672hhFm2i/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
